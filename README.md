@@ -30,7 +30,7 @@ Contact Information: Easily accessible contact details for potential collaborati
 bash
 
 2. Copy code
-git clone https://github.com/
+git clone https://github.com/karan-singh5/karan-govind-singh
 
 3. Open the project in your code editor.
 
@@ -47,5 +47,5 @@ Navigate through different sections to learn more about me and my projects.
 
 ## Deployment
 The Portfolio is deployed using GitHub Pages
-Please navigate the the following path: https://
+Please navigate the the following path: https://karan-singh5.github.io/karan-govind-singh/
 

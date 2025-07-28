@@ -3,7 +3,7 @@
 Welcome to my personal portfolio! This project showcases my skills and projects using HTML, CSS, and JavaScript.
 
 <div align="center">
-  <img src="./img/photo.jpg" alt="Photo" height="550" width="400" />
+  <img src="./img/pphto.jpg" alt="Photo" height="550" width="400" />
 </div>
 
 ## Table of Contents
